@@ -1,5 +1,5 @@
 <div>
-	<img src="pixel-animation.gif" alt="pixel animation of Nic Roth saying he's building something new">
+	<img src="pixel-animation.gif" alt="pixel animation of Nic Roth saying he's building something new" width="100%">
 </div>
 
 Hey there! I'm building some new things.
