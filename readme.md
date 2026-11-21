@@ -1,3 +1,7 @@
+<div>
+	<img src="pixel-animation.gif" alt="pixel animation of Nic Roth saying he's building something new">
+</div>
+
 Hey there! I'm building some new things.
 
 A quick background: I'm an engineering leader and entrepreneur based in South Carolina. I build software products and have led various product and engineering teams. Over the years I've scaled software and platforms to millions of users. I've led teams and organizations at startup speed, and I've done the same at the scale of a Fortune 50 global enterprise.
