@@ -1,8 +1,6 @@
-# Nic Roth
+Hey there! I'm building some new things.
 
-Building something new.
-
-I'm an engineering leader and entrepreneur based in South Carolina. I build software products and have led various product and engineering teams. Over the years I've scaled software and platforms to millions of users. I've led teams and organizations at startup speed, and I've done the same at the scale of a Fortune 50 global enterprise.
+A quick background: I'm an engineering leader and entrepreneur based in South Carolina. I build software products and have led various product and engineering teams. Over the years I've scaled software and platforms to millions of users. I've led teams and organizations at startup speed, and I've done the same at the scale of a Fortune 50 global enterprise.
 
 ## Highlights
 
