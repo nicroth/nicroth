@@ -14,6 +14,4 @@ I'm an engineering leader and entrepreneur based in South Carolina. I build soft
 - Studied at Northwestern University before transferring
 - Named inventor on 11 U.S. patents
 
-More about me at [nfr.me](https://nfr.me).
-
-Also on [LinkedIn](https://www.linkedin.com/in/nicroth) and [X](https://x.com/nicroth).
+You can learn more about me at [nfr.me](https://nfr.me). I'm also on [LinkedIn](https://www.linkedin.com/in/nicroth) and [X](https://x.com/nicroth).
